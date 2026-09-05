@@ -30,6 +30,7 @@ Example: `2026-03_PMI_Project-Management-Professional.pdf`
 |---|---|---|---|---|
 | _Project Management Professional (PMP)_ | PMP | In-Progress | Project Management | [Link](#) |
 | _Presenter_ | Gordon Research Conferences, Hong Kong| 2019 | Research and Communication | [Link](#) |
+| _Presenter_ | Asia-Pacific Coral Reef Symposium, Philippines | 2018 | Research and Communication | [Link](#) |
 | _Data Analytics Certificate_ |Eskwelabs Pte. Ltd | 2025-11 | Data Analytics | [Link]() |
 | _RPA Training Bootcamp_ |Eskwelabs Pte. Ltd | 2025-11 | Automation | [Link](#) |
 | _Data Analytics and Science Resource Person_ | Eskwelabs Pte. Ltd | 2025-11 | Mentorship | [Link](#) |

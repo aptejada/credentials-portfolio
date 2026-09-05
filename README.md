@@ -29,12 +29,13 @@ Example: `2026-03_PMI_Project-Management-Professional.pdf`
 | Certificate | Issuer | Date | Skill Area | Verification / File |
 |---|---|---|---|---|
 | _Project Management Professional (PMP)_ | PMP | In-Progress | Project Management | [Link](#) |
+| _Presenter_ | Gordon Research Conferences, Hong Kong| 2019 | Research and Communication | [Link](#) |
 | _Data Analytics Certificate_ |Eskwelabs Pte. Ltd | 2025-11 | Data Analytics | [Link]() |
 | _RPA Training Bootcamp_ |Eskwelabs Pte. Ltd | 2025-11 | Automation | [Link](#) |
 | _Data Analytics and Science Resource Person_ | Eskwelabs Pte. Ltd | 2025-11 | Mentorship | [Link](#) |
 | _SAP Data Science Fellowship_ |ASEAN Foundation | 2025-11 | Data Science | [Link](#) |
 | _NAST Publication Award_ | National Academy of Science and Technology | 2025-11 | Research | [Link](#) |
-| _Bioinformatics Virtual Network_ | Bioinformatics Virtual Community Network (California, USA) | 2025-11 | Research | [Link](#) |
+| _Bioinformatics Virtual Network Presenter_ | Bioinformatics Virtual Community Network (California, USA) | 2025-11 | Research | [Link](#) |
 | _Design Thinking Resource Person_ | Eskwelabs Pte. Ltd | 2025-11 | Project Management | [Link](#) |
 | _Accounting for Non-accountants Continuing Education_ | De La Salle University | 2025-11 | Project Management | [Link](#) |
 | _Azure Fundamentals Training_ | Ulap.Org | 2025-11 | Cloud Management | [Link](#) |

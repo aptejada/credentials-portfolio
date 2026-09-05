@@ -29,21 +29,23 @@ Example: `2026-03_PMI_Project-Management-Professional.pdf`
 | Certificate | Issuer | Date | Skill Area | Verification / File |
 |---|---|---|---|---|
 | _Project Management Professional (PMP)_ | PMP | In-Progress | Project Management | [Link](#) |
+| _HIPAA Training Certification_ | HIPAA.Training.com| 2025 | Data Privacy and Security | [Link](https://drive.google.com/drive/u/0/folders/16OjaQSl8mm81W7DTJSFbjV1A0V_Hxi7K) |
 | _Presenter_ | Gordon Research Conferences, Hong Kong| 2019 | Research and Communication | [Link](#) |
 | _Presenter_ | Asia-Pacific Coral Reef Symposium, Philippines | 2018 | Research and Communication | [Link](#) |
-| _Data Analytics Certificate_ |Eskwelabs Pte. Ltd | 2025-11 | Data Analytics | [Link]() |
-| _RPA Training Bootcamp_ |Eskwelabs Pte. Ltd | 2025-11 | Automation | [Link](#) |
-| _Data Analytics and Science Resource Person_ | Eskwelabs Pte. Ltd | 2025-11 | Mentorship | [Link](#) |
-| _SAP Data Science Fellowship_ |ASEAN Foundation | 2025-11 | Data Science | [Link](#) |
+| _Presenter_ | Philippine Society of Microbiology, Annual Convention and Scientific Meeting, Philippines | 2024 | Research and Communication | [Link](https://drive.google.com/drive/u/0/folders/16OjaQSl8mm81W7DTJSFbjV1A0V_Hxi7K) |
+| _Data Analytics Mentor Certificate_ |Eskwelabs Pte. Ltd | 2025 | Mentorship | [Link](https://drive.google.com/drive/u/0/folders/16OjaQSl8mm81W7DTJSFbjV1A0V_Hxi7K) |
+| _RPA Training Bootcamp_ |Eskwelabs Pte. Ltd | 2026 | Automation | [Link](https://drive.google.com/drive/u/0/folders/16OjaQSl8mm81W7DTJSFbjV1A0V_Hxi7K) |
+| _Data Analytics and Science Resource Person_ | Eskwelabs Pte. Ltd | 2025 | Mentorship | [Link](#) |
+| _SAP Data Science Fellowship_ |ASEAN Foundation | 2025-11 | Data Science | [Link](https://drive.google.com/drive/u/0/folders/16OjaQSl8mm81W7DTJSFbjV1A0V_Hxi7K) |
 | _NAST Publication Award_ | National Academy of Science and Technology | 2025-11 | Research | [Link](#) |
 | _Bioinformatics Virtual Network Presenter_ | Bioinformatics Virtual Community Network (California, USA) | 2025-11 | Research | [Link](#) |
 | _Design Thinking Resource Person_ | Eskwelabs Pte. Ltd | 2025-11 | Project Management | [Link](#) |
-| _Accounting for Non-accountants Continuing Education_ | De La Salle University | 2025-11 | Project Management | [Link](#) |
-| _Azure Fundamentals Training_ | Ulap.Org | 2025-11 | Cloud Management | [Link](#) |
+| _Accounting for Non-accountants Continuing Education_ | De La Salle University | 2025-11 | Project Management | [Link](https://drive.google.com/drive/u/0/folders/16OjaQSl8mm81W7DTJSFbjV1A0V_Hxi7K) |
+| _Azure Fundamentals Training_ | Ulap.Org | 2025-11 | Cloud Management | [Link](https://drive.google.com/drive/u/0/folders/16OjaQSl8mm81W7DTJSFbjV1A0V_Hxi7K) |
 | | | | | |
-| _GitHub Fundamentals Training_ | Ulap.Org | 2025-11 | Cloud Management | [Link](#) |
+| _GitHub Fundamentals Training_ | Ulap.Org | 2025-11 | Cloud Management | [Link](https://drive.google.com/drive/u/0/folders/16OjaQSl8mm81W7DTJSFbjV1A0V_Hxi7K) |
 | | | | | |
-| _BPI Bayanihan Financial Inclusion Platform_ | Bank of Philippine Islands x Eskwelabs Pte. Ltd | 2025-11 | Leadership | [Link](#) |
+| _BPI Bayanihan Financial Inclusion Platform_ | Bank of Philippine Islands x Eskwelabs Pte. Ltd | 2025-11 | Leadership | [Link](https://drive.google.com/drive/u/0/folders/16OjaQSl8mm81W7DTJSFbjV1A0V_Hxi7K) |
 | | | | | |
 
 
@@ -57,7 +59,7 @@ Example: `2026-03_PMI_Project-Management-Professional.pdf`
 | _Complex Care Management KPI and Bonus Program Structure_ | Designed workforce compensation blueprint; Optimized CCM program analytics, and evidence-based executive decision frameworks using ETL and analytics tools: Sharepoint, SQL Server, HTML, EHR, PowerBI that led to interactive financial simulators calibrated to $721/day FTE throughput, gain-sharing model calculator, profit gate logic, and coach-level payout distributions across monthly, quarterly, and annual periods simultaneously | Healthcare Analytics and Project Management | [Link](#) |
 | _Environmental Data Analytics and Forecasting_ | Identified Myanmar' local energy distribution gap and benchmark it with other countries.  Utilized SQL to query public carbon emission dataset, Power Query for data cleaning, and Power BI to create integrative visualization. Supervised the end-to-end data analysis cycle – delivering clear insights, actionable recommendations, and forecasting Myanmar’s carbon emission through 2030. Collaborated with 5 team members to assess the country’s energy source profile, and recommended viable alternative energy sources to address economic growth barriers and local energy distribution challenges. | Energy Analytics, Economics, Team  Leadership & Collaboration | [Link](#) |
 | _Domain Expertise, Program -informatics, Data Analyses, & Science Communication_ | Troubleshot and optimized program bioinformatics pipeline to precisely classify microbial organisms and predict their functional profiles. I leveraged cloud computing, statistical tests and machine learning (text classifiers like Naïve Bayes classifier) to improve analyses and reduce data processing turnaround time (~50%). Ensured effective project management, scalability, and reproducibility by utilizing GitHub Repo.| Industrial Technology, Computational Biology, Science Research and Innovation | [Link](#) |
-| _BPI Bayanihan Financial Inclusion Platform_ | Guided a group of professionals (UX designer, business analyst, and software developer) in translating Financial Inclusion & Sustainable Business Growth ideas into progressive web application (PWA) and analytics platform. Designed an inclusive and adaptive financial innovation for the Philippines. Here, we aimed to deliver context-aware , personalized financially literacy, and barangay-level analytics to help communities build healthier financial habits. Integrated technology to understand social insights and market research.| Software Development | [Link](#) |
+| _BPI Bayanihan Financial Inclusion Platform_ | Guided a group of professionals (UX designer, business analyst, and software developer) in translating Financial Inclusion & Sustainable Business Growth ideas into progressive web application (PWA) and analytics platform. Designed an inclusive and adaptive financial innovation for the Philippines. Here, we aimed to deliver context-aware , personalized financially literacy, and barangay-level analytics to help communities build healthier financial habits. Integrated technology to understand social insights and market research.| Software Development | [Link](https://github.com/Fantastic-J-s) |
 | _Robotic Process Automation/Augmentation for Workforce Analytics and Educational Tool Management_ | Led the end-to-end life cycle of Educational Platform and Workforce Development Project using Python, SQL, ELT/ETL Framework. Supervised and leveraged technical expertise on Data Cleaning and Transformation using Python or R, Data Loading into Supabase Warehouse, Creation of Event and Reference table following EAV Structure using SQL, Building data schema and analytic metrics troubleshooting -- to Ingestion of Insights into Report Templates. We successfully rendered a functional report automation. Received an overall CSAT score of 5.0/5.0. | Education, Workforce Management, Automation  | [Link](#) |
 | | | | |
 

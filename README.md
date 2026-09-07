@@ -12,8 +12,10 @@ This repository doubles as a working example of how I organize and maintain docu
 credentials-portfolio/
 ├── certificates/       # Certificate files (PDF/image), by category
 │   ├── project-management/
-│   ├── data-analytics/
-│   └── other/
+│   ├── data-analytics-science/
+|   ├── research/
+│   └── others/
+|
 ├── projects/           # Supporting case studies / work samples
 ├── publications/        # Research publications, papers, articles
 └── README.md            # This file — master index

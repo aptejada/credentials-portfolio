@@ -38,14 +38,15 @@ Example: `2026-03_PMI_Project-Management-Professional.pdf`
 | _Data Analytics Mentor Certificate_ |Eskwelabs Pte. Ltd | 2025 | Mentorship | [Link](https://drive.google.com/drive/u/0/folders/16OjaQSl8mm81W7DTJSFbjV1A0V_Hxi7K) |
 | _RPA Training Bootcamp_ |Eskwelabs Pte. Ltd | 2026 | Automation | [Link](https://drive.google.com/drive/u/0/folders/16OjaQSl8mm81W7DTJSFbjV1A0V_Hxi7K) |
 | _Data Analytics and Science Resource Person_ | Eskwelabs Pte. Ltd | 2025 | Mentorship | [Link](#) |
-| _SAP Data Science Fellowship_ |ASEAN Foundation | 2025-11 | Data Science | [Link](https://drive.google.com/drive/u/0/folders/16OjaQSl8mm81W7DTJSFbjV1A0V_Hxi7K) |
+| _SAP Data Science Fellowship_ |ASEAN Foundation | 2025-11 | Data Science | [Link](https://github.com/aptejada/credentials-portfolio/blob/25c7421ea17a74f67adc14d4dff75079baeda408/certificates/data-analytics-science/2025-08_AseanFellowship_DataScienceEnablement.pdf) |
 | _NAST Publication Award_ | National Academy of Science and Technology | 2025-11 | Research | [Link](#) |
 | _Bioinformatics Virtual Network Presenter_ | Bioinformatics Virtual Community Network (California, USA) | 2025-11 | Research | [Link](#) |
 | _Design Thinking Resource Person_ | Eskwelabs Pte. Ltd | 2025-11 | Project Management | [Link](#) |
-| _Accounting for Non-accountants Continuing Education_ | De La Salle University | 2025-11 | Project Management | [Link](https://drive.google.com/drive/u/0/folders/16OjaQSl8mm81W7DTJSFbjV1A0V_Hxi7K) |
-| _Azure Fundamentals Training_ | Ulap.Org | 2025-11 | Cloud Management | [Link](https://drive.google.com/drive/u/0/folders/16OjaQSl8mm81W7DTJSFbjV1A0V_Hxi7K) |
+| _Accounting for Non-accountants Continuing Education_ | De La Salle University | 2025-11 | Project Management | [Link](https://github.com/aptejada/credentials-portfolio/blob/25c7421ea17a74f67adc14d4dff75079baeda408/certificates/project-management/2024-02_DLSU_Accounting.pdf) |
+| _Azure Fundamentals Training_ | Ulap.Org | 2025-11 | Cloud Management | [Link](https://github.com/aptejada/credentials-portfolio/blob/25c7421ea17a74f67adc14d4dff75079baeda408/certificates/others/2024-03_Ulap.Org_AzureFundamentals.pdf) |
 | | | | | |
-| _GitHub Fundamentals Training_ | Ulap.Org | 2025-11 | Cloud Management | [Link](https://drive.google.com/drive/u/0/folders/16OjaQSl8mm81W7DTJSFbjV1A0V_Hxi7K) |
+| _GitHub Fundamentals Training_ | Ulap.Org | 2025-11 | Cloud Management | [Link]([https://drive.google.com/drive/u/0/folders/16OjaQSl8mm81W7DTJSFbjV1A0V_Hxi7K](https://github.com/aptejada/credentials-portfolio/blob/25c7421ea17a74f67adc14d4dff75079baeda408/certificates/others/2024-03_Ulap.Org_AzureFundamentals.pdf)) |
+| _GitHub Fundamentals Training_ | Ulap.Org | 2025-11 | Cloud Management | [Link]() |
 | | | | | |
 | _BPI Bayanihan Financial Inclusion Platform_ | Bank of Philippine Islands x Eskwelabs Pte. Ltd | 2025-11 | Leadership | [Link](https://drive.google.com/drive/u/0/folders/16OjaQSl8mm81W7DTJSFbjV1A0V_Hxi7K) |
 | | | | | |

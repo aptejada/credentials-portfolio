@@ -31,24 +31,24 @@ Example: `2026-03_PMI_Project-Management-Professional.pdf`
 | Certificate | Issuer | Date | Skill Area | Verification / File |
 |---|---|---|---|---|
 | _Project Management Professional (PMP)_ | PMP | In-Progress | Project Management | [Link](#) |
-| _HIPAA Training Certification_ | HIPAA.Training.com| 2025 | Data Privacy and Security | [Link](https://drive.google.com/drive/u/0/folders/16OjaQSl8mm81W7DTJSFbjV1A0V_Hxi7K) |
-| _Presenter_ | Gordon Research Conferences, Hong Kong| 2019 | Research and Communication | [Link](#) |
-| _Presenter_ | Asia-Pacific Coral Reef Symposium, Philippines | 2018 | Research and Communication | [Link](#) |
-| _Presenter_ | Philippine Society of Microbiology, Annual Convention and Scientific Meeting, Philippines | 2024 | Research and Communication | [Link](https://drive.google.com/drive/u/0/folders/16OjaQSl8mm81W7DTJSFbjV1A0V_Hxi7K) |
-| _Data Analytics Mentor Certificate_ |Eskwelabs Pte. Ltd | 2025 | Mentorship | [Link](https://drive.google.com/drive/u/0/folders/16OjaQSl8mm81W7DTJSFbjV1A0V_Hxi7K) |
-| _RPA Training Bootcamp_ |Eskwelabs Pte. Ltd | 2026 | Automation | [Link](https://drive.google.com/drive/u/0/folders/16OjaQSl8mm81W7DTJSFbjV1A0V_Hxi7K) |
-| _Data Analytics and Science Resource Person_ | Eskwelabs Pte. Ltd | 2025 | Mentorship | [Link](#) |
+| _HIPAA Training Certification_ | HIPAA.Training.com| 2025 | Data Privacy and Security | [Link](https://github.com/aptejada/credentials-portfolio/blob/0fa7de54d8a810d06407ba3671e3c6193a0ce07e/certificates/others/2025-12_HIPAATraining.com_HIPAA.pdf) |
+| _Presenter_ | Gordon Research Conferences, Hong Kong| 2019 | Research and Communication | [Link](https://github.com/aptejada/credentials-portfolio/blob/0fa7de54d8a810d06407ba3671e3c6193a0ce07e/certificates/research/2019_GRC_GRC2019_China.pdf) |
+| _Presenter_ | Asia-Pacific Coral Reef Symposium, Philippines | 2018 | Research and Communication | [Link](https://github.com/aptejada/credentials-portfolio/blob/0fa7de54d8a810d06407ba3671e3c6193a0ce07e/certificates/research/2019-03_AsiaPacific_Abstract.pdf) |
+| _Presenter_ | Philippine Society of Microbiology, Annual Convention and Scientific Meeting, Philippines | 2024 | Research and Communication | [Link](https://github.com/aptejada/credentials-portfolio/blob/4f748bc88072534c552e3a601dbefe08d317768c/certificates/research/2023-11_PSM_Participant.pdf) |
+| _Data Analytics Mentor Certificate_ |Eskwelabs Pte. Ltd | 2025 | Mentorship | [Link](https://github.com/aptejada/credentials-portfolio/blob/4f748bc88072534c552e3a601dbefe08d317768c/certificates/data-analytics-science/2025-06_Eskwelabs_DABC22Mentor.pdf) |
+| _RPA Training Bootcamp_ |Eskwelabs Pte. Ltd | 2026 | Automation | [Link](https://github.com/aptejada/credentials-portfolio/blob/4f748bc88072534c552e3a601dbefe08d317768c/certificates/data-analytics-science/2026-02_Eswelabs_RPA.pdf) |
+| _Data Analytics and Science Resource Person_ | Eskwelabs Pte. Ltd | 2025 | Mentorship | [Link](https://github.com/aptejada/credentials-portfolio/blob/aae048bcd7f788025abec8cdc18dde1f58241141/certificates/data-analytics-science/2025-Eskwelabs_resource_person.jpeg) |
 | _SAP Data Science Fellowship_ |ASEAN Foundation | 2025-11 | Data Science | [Link](https://github.com/aptejada/credentials-portfolio/blob/25c7421ea17a74f67adc14d4dff75079baeda408/certificates/data-analytics-science/2025-08_AseanFellowship_DataScienceEnablement.pdf) |
-| _NAST Publication Award_ | National Academy of Science and Technology | 2025-11 | Research | [Link](#) |
-| _Bioinformatics Virtual Network Presenter_ | Bioinformatics Virtual Community Network (California, USA) | 2025-11 | Research | [Link](#) |
-| _Design Thinking Resource Person_ | Eskwelabs Pte. Ltd | 2025-11 | Project Management | [Link](#) |
+| _National Research Council of the Philippines poster presentation_ | National Research Council of the Philippines | 2025-03 | Research | [Link](https://github.com/aptejada/credentials-portfolio/blob/e23724207d7e07ee7973b3b66c679551d1cad326/certificates/research/2025-NRCP-certificate.pdf) |
+| _Bioinformatics Virtual Network Presenter_ | Bioinformatics Virtual Community Network (California, USA) | 2025-11 | Research | [Link](https://github.com/aptejada/credentials-portfolio/blob/e23724207d7e07ee7973b3b66c679551d1cad326/certificates/research/2020-01-BVCN-Poster.pdf) |
+| _Design Thinking Resource Person_ | Eskwelabs Pte. Ltd | 2025-11 | Project Management | [Link]() |
 | _Accounting for Non-accountants Continuing Education_ | De La Salle University | 2025-11 | Project Management | [Link](https://github.com/aptejada/credentials-portfolio/blob/25c7421ea17a74f67adc14d4dff75079baeda408/certificates/project-management/2024-02_DLSU_Accounting.pdf) |
 | _Azure Fundamentals Training_ | Ulap.Org | 2025-11 | Cloud Management | [Link](https://github.com/aptejada/credentials-portfolio/blob/25c7421ea17a74f67adc14d4dff75079baeda408/certificates/others/2024-03_Ulap.Org_AzureFundamentals.pdf) |
 | | | | | |
-| _GitHub Fundamentals Training_ | Ulap.Org | 2025-11 | Cloud Management | [Link]([https://drive.google.com/drive/u/0/folders/16OjaQSl8mm81W7DTJSFbjV1A0V_Hxi7K](https://github.com/aptejada/credentials-portfolio/blob/25c7421ea17a74f67adc14d4dff75079baeda408/certificates/others/2024-03_Ulap.Org_AzureFundamentals.pdf)) |
-| _GitHub Fundamentals Training_ | Ulap.Org | 2025-11 | Cloud Management | [Link]() |
+| _GitHub Fundamentals Training_ | Ulap.Org | 2025-11 | Cloud Management | [Link]([https://github.com/aptejada/credentials-portfolio/blob/e23724207d7e07ee7973b3b66c679551d1cad326/certificates/others/2024-03_Ulap.Org_AzureFundamentals.pdf)) |
+| _GitHub Fundamentals Training_ | Ulap.Org | 2025-11 | Cloud Management | [Link](https://github.com/aptejada/credentials-portfolio/blob/e23724207d7e07ee7973b3b66c679551d1cad326/certificates/others/2024-03_Ulap.Org_AzureFundamentals.pdf) |
 | | | | | |
-| _BPI Bayanihan Financial Inclusion Platform_ | Bank of Philippine Islands x Eskwelabs Pte. Ltd | 2025-11 | Leadership | [Link](https://drive.google.com/drive/u/0/folders/16OjaQSl8mm81W7DTJSFbjV1A0V_Hxi7K) |
+| _BPI Bayanihan Financial Inclusion Platform_ | Bank of Philippine Islands x Eskwelabs Pte. Ltd | 2025-11 | Leadership | [Link](https://github.com/aptejada/credentials-portfolio/blob/e23724207d7e07ee7973b3b66c679551d1cad326/certificates/project-management/2025-08_BPI_DataWaveSprintAIDev-22.pdf) |
 | | | | | |
 
 

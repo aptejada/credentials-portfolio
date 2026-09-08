@@ -1,6 +1,6 @@
 # Credentials Portfolio
 
-A version-controlled record of certifications, training, and select project artifacts supporting my work in **Education, Project Management, Data & Analytics Leadership, and Workforce/Health/Bioinformatics Program Development**.
+A version-controlled record of certifications, training, and select project artifacts supporting my work in **Education, Project Management, Data & Analytics Leadership, and Workforce/Health/Bioinformatics Program Operations**.
 
 This repository doubles as a working example of how I organize and maintain documentation (folder structure, naming conventions, and a changelog are kept up to date as new credentials are completed).
 

@@ -84,6 +84,7 @@ Example: `2026-03_PMI_Project-Management-Professional.pdf`
 
 Skills/certifications currently in progress or planned:
 
+- [ ] _McKinsey Forward Learning Program_
 - [ ] _Six Sigma Green-Belt Certification_
 - [ ] _Project Management Certification(PMI)_
 - [ ] _Masters in Business Administration_

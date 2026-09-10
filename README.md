@@ -48,7 +48,7 @@ Example: `2026-03_PMI_Project-Management-Professional.pdf`
 | _GitHub Fundamentals Training_ | Ulap.Org | 2025-11 | Cloud Management | [Link](https://github.com/aptejada/credentials-portfolio/blob/e23724207d7e07ee7973b3b66c679551d1cad326/certificates/others/2024-03_Ulap.Org_AzureFundamentals.pdf) |
 | _GitHub Fundamentals Training_ | Ulap.Org | 2025-11 | Cloud Management | [Link](https://github.com/aptejada/credentials-portfolio/blob/e23724207d7e07ee7973b3b66c679551d1cad326/certificates/others/2024-03_Ulap.Org_AzureFundamentals.pdf) |
 | | | | | |
-| _BPI Bayanihan Financial Inclusion Platform_ | Bank of Philippine Islands x Eskwelabs Pte. Ltd | 2025-11 | Leadership | [Link](https://github.com/aptejada/credentials-portfolio/blob/e23724207d7e07ee7973b3b66c679551d1cad326/certificates/project-management/2025-08_BPI_DataWaveSprintAIDev-22.pdf](https://github.com/aptejada/BPI-Bayanihan)) |
+| _BPI Bayanihan Financial Inclusion Platform_ | Bank of Philippine Islands x Eskwelabs Pte. Ltd | 2025-11 | Leadership | [Link](https://github.com/aptejada/credentials-portfolio/blob/e23724207d7e07ee7973b3b66c679551d1cad326/certificates/project-management/2025-08_BPI_DataWaveSprintAIDev-22.pdf](https://github.com/aptejada/BPI-Bayanihan) |
 | | | | | |
 
 
